@@ -1,0 +1,2 @@
+# HiroyukiVoice
+Coefontのひろゆきメーカーの内部APIを使用して音声を取得する
