@@ -10,5 +10,7 @@ pip install requests colorama
 python hiroyuki,py
 ```
 # 動作の様子
+- コンソール↓
 ![image](https://github.com/user-attachments/assets/cd6089ca-e3e1-49cd-9f1f-5e0f5e998adb)<br>
+- 音声ファイル↓
 ![image](https://github.com/user-attachments/assets/e70cff9d-17c6-4c34-98d2-840bb8bf49bd)
