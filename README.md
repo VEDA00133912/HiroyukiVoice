@@ -7,7 +7,7 @@ pip install requests colorama
 ```
 - 実行
 ```
-python hiroyuki,py
+python hiroyuki.py
 ```
 # 動作の様子
 - コンソール↓<br>
